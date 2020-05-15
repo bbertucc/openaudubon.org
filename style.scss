@@ -1,0 +1,35 @@
+// HTML Elements
+*{
+  box-sizing: border-box;
+}
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  div{}
+  img{}
+  p{}
+  a{}
+  h1{}
+  section{}
+}
+
+// Navigation
+#navigation{
+  #navigation-icon{}
+}
+
+// Info Popup
+#info{}
+
+// Content Feed
+#feed{
+  #feed-title{}
+  #feed-posts{
+
+    // Single Post
+    .posts-single{
+      .single-image{}
+      .single-caption{}
+    }
+
+  }
+}
