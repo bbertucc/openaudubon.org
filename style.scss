@@ -1,3 +1,6 @@
+// Variables
+$cell: 24px;
+
 // HTML Elements
 *{
   box-sizing: border-box;
@@ -14,7 +17,10 @@ body{
 
 // Navigation
 #navigation{
-  #navigation-icon{}
+  #navigation-icon{
+    height: $cell;
+    width: $cell;
+  }
 }
 
 // Info Popup
